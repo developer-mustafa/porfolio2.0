@@ -1,0 +1,25 @@
+.skillbar {
+  border-radius: 15px !important;
+  margin: 25px 0;
+}
+
+.skillbar-title {
+  border-radius: 15px 0 0 15px !important;
+}
+
+.skillbar-bar {
+  border-radius: 0 15px 15px 0 !important;
+}
+
+.skillbar-percent {
+  color: #1acf0a !important;
+}
+
+
+img{
+  border-radius: 37%;
+  -webkit-border-radius: 37%;
+  -moz-border-radius: 37%;
+  -ms-border-radius: 37%;
+  -o-border-radius: 37%;
+}
