@@ -2,9 +2,9 @@ const Items = [
   {
     id: 1,
     mainImage:
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682699543/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-1_rmh7lp.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716521052/123123_sc4dld.png",
     img: [
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682699543/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-1_rmh7lp.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716521052/123123_sc4dld.png",
       "https://res.cloudinary.com/du541igfh/image/upload/v1682699548/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-2_p3chy5.png",
       "https://res.cloudinary.com/du541igfh/image/upload/v1682699706/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-3_uhtwa6.png",
       "https://res.cloudinary.com/du541igfh/image/upload/v1682699802/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-4_p404nm.png",
@@ -31,7 +31,7 @@ const Items = [
       "Email JS",
       "Framer Motion",
     ],
-    title: "Msn Production",
+    title: "Modern Portfolio",
     description:
       "PT. MULIA SEJATI NUSANTARA Established on June 24, 2019, a limited liability company engaged in supplier & contractor services. Then on January 22 2022 PT. MULIA SEJATI NUSANTARA Opening a new business branch in the Technology Sector which includes Website Creation, Mobile Applications, Branding, Creative Content, Digital Marketing & Advertising. This branch is called Mulia Sejati Nusantara Production or in short MSN PRODUCTION.",
     category: "business",
@@ -149,12 +149,12 @@ const Items = [
       "MongoDB",
       "TMDB API",
     ],
-    title: "BertFlix",
+    title: "VisionFlix",
     description:
       "Fullstack open source movie application made with MongoDB, Express, React & Nodejs (MERN)",
     category: "personal",
-    liveLink: "https://bertflix.vercel.app/",
-    codeLink: "https://github.com/developer-mustafa/mern-movie",
+    liveLink: "https://vision-flix-mern.vercel.app/",
+    codeLink: "https://github.com/developer-mustafa/vision-flix-mern",
   },
   {
     id: 4,
@@ -222,7 +222,7 @@ const Items = [
       "Nodemon",
       "Sequelize",
     ],
-    title: "Employee Salary Management",
+    title: "Employee Management",
     description:
       "Warehouse website with employee/employee management, add employee and job title options. Employee attendance data setting salary deductions and salary data. Print salary reports, attendance and salary data and many other features.",
     category: "business",
@@ -233,45 +233,50 @@ const Items = [
   {
     id: 5,
     mainImage:
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-1_yhedpu.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/fl_preserve_transparency/v1716518814/c816pgwwjrfdy4bmpzzu.jpg?_s=public-apps",
     img: [
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-1_yhedpu.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-2_uktrxk.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-3_s1js9i.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-4_sb9ga6.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683869748/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-5_wrxlr7.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/fl_preserve_transparency/v1716518814/c816pgwwjrfdy4bmpzzu.jpg?_s=public-apps",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716518814/xrwva2qgfdkqv8j1ltyj.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716518813/f3xta7xidknarokybszf.png",
+      "https://res-console.cloudinary.com/dn7kw9efx/thumbnails/v1/image/upload/v1716519682/bTdfajB3bnN4/drilldown",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716518824/zxemkqvlzjrcmoxs3tdj.png",
     ],
     features: [
-      "Add Student",
-      "Edit Student",
-      "Remove Student",
-      "No Student Page",
-      "Responsive Design",
-      "404 Page and many more",
+      "Student Information Management Efficiently store and manage student profiles, including personal details, academic records, and attendance.Easy access to student histories and progress reports.Course and Curriculum Management",
+      
+      "Create and organize courses, manage syllabi, and track curriculum changes.Simplify scheduling with an integrated calendar for classes, exams, and events.Attendance Tracking",
+      
+      "Real-time attendance monitoring with automated alerts for absences or tardiness.Detailed attendance reports for students and classes.Grade Management",
+      
+      "Record and calculate grades with ease.Generate report cards and transcripts that can be shared digitally.Communication Tools",
+      
+      "Facilitate communication between teachers, students, and parents through a built-in messaging system.Notifications for important updates and reminders.Financial Management",
+      
+      "Manage tuition fees, generate invoices, and track payments.Financial reports and analytics to keep track of the institution’s finances.Library Management",
+      
+      "Keep track of book inventories, check-outs, and returns.Integrated search feature for students and staff to locate books easily.Hostel and Transport Management",
+      
+      "Organize hostel accommodations and manage room allocations.Plan and monitor transportation routes and schedules for students.Examination and Assessment",
+      
+     " Schedule exams, create question papers, and manage online assessments.Analyze performance with detailed reports and statistics.Parental Access",
+      
+      "Provide parents with access to their child’s academic and attendance records.Enable parents to stay engaged with school activities and communicate with teachers.Customizable Dashboard",
+      
+     "Personalize the dashboard for different user roles, providing relevant information at a glance.Real-time analytics and reporting for quick decision-making."
     ],
     technologies: [
-      "React",
-      "React Hooks",
-      "React Router Dom",
-      "Axios",
-      "Bootstrap",
-      "React Icons",
-      "Sweet Alert2",
-      "Node JS",
-      "Express JS",
-      "Cors",
-      "Mongoose",
-      "Dotenv",
-      "Nodemon",
-      "MongoDB",
+      "HTML",
+      "CSS",
+      "JAVASCRIPT",
+      "PHP",
+      "MYSQL",
+      "Custom code",
     ],
-    title: "Student Management System",
-    description:
-      "Fullstack open source student management system application made with MongoDB, Express, React & Nodejs (MERN)",
-    category: "business",
-    liveLink: "https://sttiss.vercel.app/",
-    codeLink:
-      "https://github.com/developer-mustafa/mern-student-management-system",
+    title: "Full Stack Student Management System website",
+    description:"Fullstack BenefitsImproved Efficiency: Automate routine tasks and reduce manual paperwork.Enhanced Communication: Strengthen connections between educators, students, and parents.Data-Driven Insights: Use analytics to drive improvements in educational outcomes.User-Friendly Interface: Intuitive design ensuring ease of use for all users.Scalability: Adaptable to institutions of all sizes, from small schools to large universities.Security: Robust security measures to protect sensitive information and ensure data privacy.",
+    category: "Full Education Management Solution",
+    liveLink: "https://mithacharaifm.com/",
+    codeLink:"https://github.com/developer-mustafa",
   },
   {
     id: 6,
