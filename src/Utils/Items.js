@@ -157,26 +157,12 @@ const Items = [
   {
     id: 4,
     mainImage:
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772430/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-2_vsab0u.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716522962/chart1_yukjqt.png",
     img: [
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772430/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-1_gywmlj.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772430/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-2_vsab0u.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772430/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-3_ktppfh.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772430/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-4_g9pcqp.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772430/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-5_cugdqq.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772430/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-6_d550ha.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772431/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-7_u2td2u.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772431/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-8_tt0tqg.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772431/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-9_thcxyv.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772431/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-10_wwmqty.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772431/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-11_issyrd.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772431/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-12_visvli.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772431/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-13_dqy6wg.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772431/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-14_kvaem7.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772432/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-15_pzdxsu.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772431/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-16_ven89o.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772432/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-17_wjwedp.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682772432/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-18_zpsewd.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716522962/chart1_yukjqt.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716522962/chart3_kyildx.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716522962/chart2_imyfdc.png",
+     
     ],
     features: [
       "Login Admin",
@@ -220,13 +206,12 @@ const Items = [
       "Nodemon",
       "Sequelize",
     ],
-    title: "Employee Management",
-    description:
-      "Warehouse website with employee/employee management, add employee and job title options. Employee attendance data setting salary deductions and salary data. Print salary reports, attendance and salary data and many other features.",
-    category: "business",
-    liveLink: "https://developer-mustafa.vercel.app/employee-salary-management",
+    title: "React Admin Dashboard",
+    description:"Analytics and Reports Real-time data visualization: Track key metrics and performance indicators with interactive charts and graphs. Customizable reports: Generate and export detailed reports tailored to your business needs. System settings: Configure application settings to match your business requirements. Personal preferences: Customize your dashboard experience with theme options and layout preferences. 7. Security and Compliance. Data protection: Ensure data security with advanced encryption and secure authentication mechanisms. Regulatory compliance: Stay compliant with industry standards and regulations. User Interface Intuitive Design. User-friendly layout: Navigate through a clean and responsive interface designed for efficiency. Dashboard widgets: Personalize your dashboard with drag-and-drop widgets to prioritize important information. Customizable Themes. Light and dark modes: Choose between different themes to reduce eye strain and improve usability. Theme customization: Modify colors and styles to align with your brand identity. Integration and Extensibility API Integrations. Third-party services: Seamlessly integrate with external services like payment gateways, CRMs, and more. Custom APIs: Extend functionality with custom API endpoints tailored to your specific needs. Modular Architecture. Component-based design: Build and maintain the dashboard with reusable React components. Scalable solutions: Ensure your dashboard can grow with your business by adding new features effortlessly.",
+    category: "business analytics",
+    liveLink: "https://next-js-admin-dashboard-pi.vercel.app/",
     codeLink:
-      "https://github.com/developer-mustafa/mern-employee-salary-management",
+      "https://github.com/developer-mustafa/NextJS-admin-dashboard",
   },
   {
     id: 5,
@@ -276,39 +261,9 @@ const Items = [
     liveLink: "https://mithacharaifm.com/",
     codeLink:"https://github.com/developer-mustafa",
   },
+ 
   {
     id: 6,
-    mainImage:
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-2_iwduig.png",
-    img: [
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-1_gpiiro.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-2_iwduig.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-3_sk2hyn.png",
-    ],
-    features: [
-      "Mobile Responsive",
-      "Beautiful Animations",
-      "Rapid Controls",
-      "High Score",
-      "Mario Background Music",
-      "Jump & Game Over Sound Effect",
-    ],
-    technologies: [
-      "React",
-      "CSS",
-      "React Hooks",
-      "React Router",
-      "React Redux",
-    ],
-    title: "Mario Jump",
-    description:
-      "Mario Jump is an endless running game inspired by the famous Google Chrome's T-Rex Dinosaur Game 🦖. The game is built entirely with ReactJS ⚛ and Redux Toolkit 🔧.",
-    category: "game",
-    liveLink: "https://mariojumpp.vercel.app/",
-    codeLink: "https://github.com/developer-mustafa/mario-jump-game",
-  },
-  {
-    id: 7,
     mainImage:
       "https://res.cloudinary.com/du541igfh/image/upload/v1682944695/Blog%20Portfolio%20Gilbert/Project/bert-quiz/img-3_t6uxoj.png",
     img: [
@@ -343,40 +298,7 @@ const Items = [
     liveLink: "https://bertquiz.vercel.app/",
     codeLink: "https://github.com/developer-mustafa/react-quiz",
   },
-  {
-    id: 8,
-    mainImage:
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683033408/Blog%20Portfolio%20Gilbert/Project/shopify/img-1_q5d6pn.png",
-    img: [
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683033408/Blog%20Portfolio%20Gilbert/Project/shopify/img-1_q5d6pn.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683033411/Blog%20Portfolio%20Gilbert/Project/shopify/img-2_nko9ic.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683033413/Blog%20Portfolio%20Gilbert/Project/shopify/img-3_rnhbr1.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683033408/Blog%20Portfolio%20Gilbert/Project/shopify/img-4_ks8lck.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683033409/Blog%20Portfolio%20Gilbert/Project/shopify/img-5_eotroj.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1683033408/Blog%20Portfolio%20Gilbert/Project/shopify/img-6_fgpzef.png",
-    ],
-    features: [
-      "Mobile Responsive",
-      "Beautiful Animations",
-      "Product",
-      "Pricing",
-      "Testimonial",
-      "Contact",
-    ],
-    technologies: [
-      "React",
-      "React Vite",
-      "Tailwind CSS",
-      "Framer Motion",
-      "React Icons",
-      "React Hooks",
-    ],
-    title: "Shopify",
-    description: "Open source landing page shopify application",
-    category: "personal",
-    liveLink: "https://shopifyy.vercel.app/",
-    codeLink: "https://github.com/developer-mustafa/react-shopify-landing",
-  },
+  
 ];
 
 export default Items;

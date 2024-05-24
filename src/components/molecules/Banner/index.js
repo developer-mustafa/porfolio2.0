@@ -59,7 +59,7 @@ const Banner = () => {
 
         <div className="flex items-center translate-y-[-60%] sm:translate-y-[-0%]">
           <a
-            href="https://drive.google.com/"
+            href="https://mustafaofficial.netlify.app/"
             target="blank"
           >
             <button className="primary-button">

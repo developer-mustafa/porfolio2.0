@@ -85,7 +85,7 @@ export default function Navbar() {
 
             <a
               className="inline-block ml-4"
-              href="https://learnwithmustafa.vercel.app"
+              href="https://mustafaofficial.netlify.app/"
               target="blank"
             >
               <PrimaryBtn>
@@ -133,7 +133,7 @@ export default function Navbar() {
                 <li className="text-center m-4">
                   <a
                     className="inline-block w-full"
-                    href="https://learnwithmustafa.vercel.app"
+                    href="https://mustafaofficial.netlify.app/"
                     target="blank"
                   >
                     <button className="primary-button w-full text-white">
