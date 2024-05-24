@@ -33,7 +33,7 @@ const Items = [
     description:
       "PT. MULIA SEJATI NUSANTARA Established on June 24, 2019, a limited liability company engaged in supplier & contractor services. Then on January 22 2022 PT. MULIA SEJATI NUSANTARA Opening a new business branch in the Technology Sector which includes Website Creation, Mobile Applications, Branding, Creative Content, Digital Marketing & Advertising. This branch is called Mulia Sejati Nusantara Production or in short MSN PRODUCTION.",
     category: "business",
-    liveLink: "https://mustafasir.vercel.app/",
+    liveLink: "https://mustafa-porfolio3-0.vercel.app/",
     codeLink: "https://github.com/developer-mustafa/porfolio3.0",
   },
   {
