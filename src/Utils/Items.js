@@ -4,13 +4,11 @@ const Items = [
     mainImage:
       "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716521052/123123_sc4dld.png",
     img: [
-      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716521052/123123_sc4dld.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682699548/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-2_p3chy5.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682699706/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-3_uhtwa6.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682699802/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-4_p404nm.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682700118/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-5_mksj57.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682700238/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-6_jfndeo.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682700374/Blog%20Portfolio%20Gilbert/Project/msnproduction/img-7_uhh453.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716521052/123123_sc4dld",
+      "https://res-console.cloudinary.com/dn7kw9efx/thumbnails/v1/image/upload/v1716521579/cG8zX2loZzBmbg==/drilldown",
+      "https://res-console.cloudinary.com/dn7kw9efx/thumbnails/v1/image/upload/v1716521579/cG8yX3VhZHNncA==/drilldown",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716521578/p04_oqjnhj.png",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716521577/po5_n6nebu.png"
     ],
     features: [
       "Home",
@@ -35,8 +33,8 @@ const Items = [
     description:
       "PT. MULIA SEJATI NUSANTARA Established on June 24, 2019, a limited liability company engaged in supplier & contractor services. Then on January 22 2022 PT. MULIA SEJATI NUSANTARA Opening a new business branch in the Technology Sector which includes Website Creation, Mobile Applications, Branding, Creative Content, Digital Marketing & Advertising. This branch is called Mulia Sejati Nusantara Production or in short MSN PRODUCTION.",
     category: "business",
-    liveLink: "https://msnproduction.com/",
-    codeLink: "https://github.com/developer-mustafa/msnproduction.com",
+    liveLink: "https://mustafasir.vercel.app/",
+    codeLink: "https://github.com/developer-mustafa/porfolio3.0",
   },
   {
     id: 2,
