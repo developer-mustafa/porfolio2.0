@@ -231,9 +231,9 @@ const Items = [
   {
     id: 5,
     mainImage:
-      "https://res.cloudinary.com/dn7kw9efx/image/upload/fl_preserve_transparency/v1716518814/c816pgwwjrfdy4bmpzzu.jpg?_s=public-apps",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716518814/projects1/c816pgwwjrfdy4bmpzzu.png",
     img: [
-      "https://res.cloudinary.com/dn7kw9efx/image/upload/fl_preserve_transparency/v1716518814/c816pgwwjrfdy4bmpzzu.jpg?_s=public-apps",
+      "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716518814/projects1/c816pgwwjrfdy4bmpzzu.png",
       "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716518814/xrwva2qgfdkqv8j1ltyj.png",
       "https://res.cloudinary.com/dn7kw9efx/image/upload/v1716518813/f3xta7xidknarokybszf.png",
       "https://res-console.cloudinary.com/dn7kw9efx/thumbnails/v1/image/upload/v1716519682/bTdfajB3bnN4/drilldown",
